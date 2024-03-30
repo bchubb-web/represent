@@ -1,0 +1,19 @@
+{
+    "name": "bchubbweb/represent",
+    "description": "A simple modelling library",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bchubbweb\\Represent\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Billy Chubb",
+            "email": "billy@bchubb.co.uk"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
