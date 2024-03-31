@@ -2,9 +2,8 @@
 
 namespace Bchubbweb\Represent\Model;
 
-trait ModelTrait
+trait SqlTrait
 {
-    protected array $attributes;
 
     protected string $sqlStatement;
 
